@@ -1,6 +1,7 @@
 <h1>Crumby</h1>
 <p>Este repositorio contiene el código fuente y los recursos para el sitio web de "Crumbly", un cafe Naturalista..</p>
 <h4>Características del Sitio:</h4>
+<img src="/imagenes/crumblylogo-postive.svg" alt="logo de crumbly">
 <p>
 
 Menú: Detalles completos de las bebidas y bocadillos disponibles, con descripciones y precios.<br>
