@@ -117,7 +117,7 @@ input{
 }
 /**/
 .main-header.home{
-    background-image: url(/Imagenes/Home/background.png);
+    background-image: url(../imagenes/Home/background.png);
     flex-direction: column;
     justify-content: flex-start;
     background-size: cover;
